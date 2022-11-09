@@ -1,0 +1,19 @@
+#container{
+    background-color: greenyellow;
+    height: 600px;
+    width: 80%;
+    margin-left: 10%;
+    position: absolute;
+}
+#box{
+    position: absolute;
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    margin: 40px 40px 40px 40px;
+    align-items: center;
+    border-radius: 50%;
+}
+h4{
+    color: white;
+}
